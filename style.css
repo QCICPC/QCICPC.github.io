@@ -10,12 +10,12 @@ h3,a {
     font-size: 200%;
 }
 
-a{
+a,p{
     margin-left: 30px;
 }
 
 h3{
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 h2{
@@ -23,12 +23,17 @@ h2{
     text-align:center;
 }
 
+
 p{
-    margin-top: 50px;
-    margin-left: 2.5%;
-    margin-right: 2.5%;
+    font-size: 20px;
+    margin-top: 5px;
 }
+
 
 body{
     margin-bottom: 50px;
+}
+
+#email{
+    font-size: 200%;
 }
